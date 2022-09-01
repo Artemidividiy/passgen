@@ -1,0 +1,4 @@
+{
+    "base": "http://localhost:5500",
+    "home": "http://localhost:5500/"
+}
